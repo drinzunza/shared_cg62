@@ -1,0 +1,13 @@
+
+
+git add .
+git commit -m "THIS SAVES YOUR CHANGES" 
+
+git pull 
+
+# HERE IS where merge issues can happen
+# fix the merge issues
+# git add .
+# git commit -m "SOMETHING HERE" 
+
+git push
